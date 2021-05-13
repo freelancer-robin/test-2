@@ -1,0 +1,59 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.main-div{
+    text-align: center;
+    height: 1000px;
+   
+    
+}
+.basic{
+    padding: 20px;
+    height: 20px;
+    width: 120px;
+    background-color:#34495e;
+    display: inline-block;
+    border: black solid 1px;
+    color: #f1c40f;
+    cursor: pointer;
+    margin-left: -10px;
+    
+    
+}
+.div-1:hover{
+    
+    background-color:#9b59b6;
+    transform: scale(1.2)
+}
+.div-2:hover{
+    
+    background-color:#9b59b6;
+    transform: scale(1.2)
+}
+.div-3:hover{
+   
+    background-color:#9b59b6;
+    transform: scale(1.2)
+}
+.div-4:hover{
+    
+    background-color:#9b59b6;
+    transform: scale(1.2)
+}
+.div-5:hover{
+    
+    background-color:#9b59b6;
+    transform: scale(1.2)
+}
+.image:hover{ 
+    transform: scale(1.1);
+   
+}
+.image img{
+    margin-top: -1px;
+    border: green solid 1px;
+    
+    
+}
+    
